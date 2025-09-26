@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Hướng Dẫn",
         "groups": [
           {
             "group": "Getting started",
@@ -71,12 +71,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Tài Liệu",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Cộng Đồng",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
@@ -95,8 +95,8 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Hỗ Trợ",
+        "href": "mailto:support@automator.vn"
       }
     ],
     "primary": {
